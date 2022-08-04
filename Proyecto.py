@@ -3,6 +3,9 @@
 Created on Mon Aug  1 00:51:31 2022
 
 @author: john
+         Fernando
+         Andrea
+         Eder
 """
 
 import pandas as pd
